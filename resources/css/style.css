@@ -1,0 +1,90 @@
+.icon-logon {
+    width: 30px;
+    height: auto;
+}
+
+.icon-logon-desc {
+    text-align: center;
+    float: right;
+    margin-top: 4px;
+    margin-right: 10em;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.search-position {
+    position: relative;
+    right: 40%;
+    left: auto;
+}
+
+.footer-center-item{
+    text-align: center;
+}
+
+.list-footer {
+    display: inline-block;
+    margin: 2em;
+    margin-left: 3em;
+    padding: 5px
+}
+
+.item-footer {
+    display: block;
+    margin: 5px 5px 5px 5px;
+    color: #e6e6e6;
+    text-decoration: none;
+}
+
+.item-footer:hover{
+    color: #e6e6e6;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.title-list {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    color: #e6e6e6;
+    text-align: center;
+}
+
+.copyright {
+    font-size: 13px;
+    color: #e6e6e6;
+    font-style: italic;
+}
+
+/* Código referente a tela de login */
+
+.login-position {
+    position: relative;
+    display: inline;
+    left: 380px;
+    right: auto;
+}
+
+.login-obs {
+    opacity: 80%;
+}
+
+.logo-teste {
+    position: absolute;
+    top: auto;
+    left: 4em;
+}
+
+.botao-menu {
+    position: relative;
+    display: block;
+    color: #ffffff !important;
+    font-size: 40px;
+    width: 50px;
+}
+
+.icon-social{ 
+    font-size: 25px;
+    color: #ffffff;
+    margin: 6px 6px 6px 6px;
+}
